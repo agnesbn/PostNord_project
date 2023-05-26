@@ -1,6 +1,11 @@
 # TITLE!
 _Exam project for Computational Linguistics Spring 2023_
 
+## Structure of the repository
+- `in`: Here you will find the data (or input) used in the code.
+- `notebooks`: Here you will find the code
+- `out`: Here you will find the output from running the code (plots, reports etc.)
+
 ## How to use the code
 - Before running any of the code, please download the data from [this Kaggle-page](https://www.kaggle.com/datasets/nicklasstiborgm/reviews-of-postnords-trustpilot-page) and add it to the `in`-folder.
 - Then go into the `notebooks`-folder, open the `preprocessing.ipynb`-notebook and run all the code chunks in the notebook. This should complete any necessary preprocessing of the data and save a cleaned and balanced dataset, which can be used for further analysis, in the `in`-folder.
