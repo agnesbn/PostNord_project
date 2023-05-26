@@ -2,7 +2,7 @@
 _Exam project for Computational Linguistics Spring 2023_
 
 ## Structure of the repository
-<img src="https://img.icons8.com/?size=512&id=JHFYPQIPcXti&format=png"  width="20" height="20">`in`:__ Here you will find the data (or input) used in the code.
+<img src="https://img.icons8.com/?size=512&id=JHFYPQIPcXti&format=png"  width="25" height="25">`in`:__ Here you will find the data (or input) used in the code.
 - `balanced_dataset.csv`: The cleaned and balanced dataset (the output from running `preprocessing.ipynb`).
 
 \
