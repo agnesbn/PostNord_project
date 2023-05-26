@@ -6,10 +6,12 @@ _Exam project for Computational Linguistics Spring 2023_
     - `balanced_dataset.csv`: The cleaned and balanced dataset (the output from running `preprocessing.ipynb`).
 
 
+
 - `notebooks`: Here you will find the code
     - `postnord_classification.ipynb`: finds the best model for classification and then trains and evalutates it.
     - `preprocessing.ipynb`: get the data in shape for the classification task.
     - `old`: a folder of previous editions of the code (_it's quite messy, so no need to look in there_)
+
 
 
 - `out`: Here you will find the output from running the code (plots, reports etc.)
