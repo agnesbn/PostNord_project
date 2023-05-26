@@ -4,9 +4,7 @@ _Exam project for Computational Linguistics Spring 2023_
 ## Structure of the repository
 - `in`: Here you will find the data (or input) used in the code.
     - `balanced_dataset.csv`: The cleaned and balanced dataset (the output from running `preprocessing.ipynb`).
-
-
-
+\n
 - `notebooks`: Here you will find the code
     - `postnord_classification.ipynb`: finds the best model for classification and then trains and evalutates it.
     - `preprocessing.ipynb`: get the data in shape for the classification task.
