@@ -15,6 +15,7 @@
 <img src="https://img.icons8.com/?size=512&id=JHFYPQIPcXti&format=png"  width="25" height="25"> __`out`:__ Here you will find the output from running the code (plots, reports etc.)\
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/?size=512&id=102179&format=png"  width="25" height="25"> `classification_report.txt`\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/?size=512&id=112856&format=png"  width="25" height="25"> `confusion_matrix.png`\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/?size=512&id=102179&format=png"  width="25" height="25"> `correlated_terms.txt`\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/?size=512&id=102179&format=png"  width="25" height="25"> `development_in_number_of_rows.txt`\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/?size=512&id=112856&format=png"  width="25" height="25"> `distribution_of_datapoints_AFTER_preprosessing.png`\
