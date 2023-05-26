@@ -1,4 +1,4 @@
-# PostNord project
+# TITLE!
 _Exam project for Computational Linguistics Spring 2023_
 
 ## How to use the code
@@ -7,3 +7,6 @@ _Exam project for Computational Linguistics Spring 2023_
     - _If you want to skip this step, you can already find the output from this notebook (`balanced_dataset.csv`) in the `in`-folder.
 - Then open and run all the code in `postnord_classification.ipynb`, and you will get the different output seen in the exam paper.
     - _This might take a while!_
+
+
+_Kirsten N. Nielsen & Agnes B. Nielsen_
