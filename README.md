@@ -7,8 +7,8 @@ _Exam project for Computational Linguistics Spring 2023_
 
 \
 <img src="https://img.icons8.com/?size=512&id=JHFYPQIPcXti&format=png"  width="25" height="25"> __`notebooks`:__ Here you will find the code.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png"  width="25" height="25">`postnord_classification.ipynb`: finds the best model for classification and then trains and evalutates it.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png"  width="25" height="25">`preprocessing.ipynb`: get the data in shape for the classification task.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png"  width="25" height="25">`postnord_classification.ipynb`: finds the best model for classification and then trains and evalutates it.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png"  width="25" height="25">`preprocessing.ipynb`: get the data in shape for the classification task.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/?size=512&id=JHFYPQIPcXti&format=png"  width="25" height="25">`old`: a folder of previous editions of the code (_it's quite messy, so no need to look in there_)
 
 \
