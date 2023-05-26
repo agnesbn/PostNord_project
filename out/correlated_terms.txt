@@ -1,0 +1,31 @@
+MOST CORRELATED TERMS PER CATEGORY
+n==> 1:
+  * Most Correlated Unigrams are: kundeservice, ok, ringe, pakke, dårligt, fint, postnord, super, fin, hjemme, elendig, hurtigt, levering, dårlig, hurtig
+
+  * Most Correlated Bigrams are: hjemme hjemme, hurtigt nemt, fin hurtig, post nord, ringe service, rigtig dårlig, fin service, hurtig service, virkelig dårlig, super hurtig, hjemme dagen, elendig service, dårlig oplevelse, dårlig service, hurtig levering
+
+
+n==> 2:
+  * Most Correlated Unigrams are: tiden, ok, sted, problemer, nemt, perfekt, pakken, tilfreds, fint, fin, service, super, hurtigt, levering, hurtig
+
+  * Most Correlated Bigrams are: pakke leveret, nemt hurtigt, service hurtig, langt væk, hurtigt levering, super service, pakken leveret, fin levering, hurtigt nemt, lang leveringstid, fin hurtig, fin service, hurtig service, super hurtig, hurtig levering
+
+
+n==> 3:
+  * Most Correlated Unigrams are: tid, pakkeboks, pakkeboksen, problemer, plads, pakken, irriterende, nemt, perfekt, hurtigt, lang, super, service, levering, hurtig
+
+  * Most Correlated Bigrams are: nemt hurtigt, lang leveringstid, fin hurtig, lang kø, service hurtig, tog tid, tog lang, fin service, dårlig service, super service, hurtigt nemt, hurtig service, lang tid, super hurtig, hurtig levering
+
+
+n==> 4:
+  * Most Correlated Unigrams are: fungerede, udmærket, service, betjening, hjemme, nemt, tiden, oplevelse, problemer, hurtigt, ok, fint, levering, fin, hurtig
+
+  * Most Correlated Bigrams are: nemt hurtigt, gik hurtigt, dårlig service, levering tiden, fin behandling, ok levering, fint hurtigt, fint problemer, hurtig service, fungerede fint, fin oplevelse, fin hurtig, fin levering, fin service, hurtig levering
+
+
+n==> 5:
+  * Most Correlated Unigrams are: pakke, hjemme, effektiv, lynhurtig, pakken, tak, nemt, fremragende, tilfreds, service, hurtigt, perfekt, super, levering, hurtig
+
+  * Most Correlated Bigrams are: perfekt hurtig, fungerede perfekt, hurtig sikker, hurtig præcis, hurtigt effektivt, lynhurtig levering, super levering, super hurtigt, hurtig effektiv, perfekt levering, hurtig service, hurtigt nemt, super service, super hurtig, hurtig levering
+
+
