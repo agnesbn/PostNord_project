@@ -1,2 +1,3 @@
 # PostNord project
-Exam project for Computational Linguistics Spring 2023
+_Exam project for Computational Linguistics Spring 2023_
+
