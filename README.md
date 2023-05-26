@@ -2,18 +2,18 @@
 _Exam project for Computational Linguistics Spring 2023_
 
 ## Structure of the repository
-<img src="https://img.icons8.com/?size=512&id=JHFYPQIPcXti&format=png"  width="25" height="25">`in`:__ Here you will find the data (or input) used in the code.
-- `balanced_dataset.csv`: The cleaned and balanced dataset (the output from running `preprocessing.ipynb`).
+<img src="https://img.icons8.com/?size=512&id=JHFYPQIPcXti&format=png"  width="25" height="25">__`in`:__ Here you will find the data (or input) used in the code.
+- <img src="https://img.icons8.com/?size=512&id=JHFYPQIPcXti&format=png"  width="25" height="25">`balanced_dataset.csv`: The cleaned and balanced dataset (the output from running `preprocessing.ipynb`).
 
 \
-__`notebooks`:__ Here you will find the code
-- `postnord_classification.ipynb`: finds the best model for classification and then trains and evalutates it.
-- `preprocessing.ipynb`: get the data in shape for the classification task.
-- `old`: a folder of previous editions of the code (_it's quite messy, so no need to look in there_)
+<img src="https://img.icons8.com/?size=512&id=JHFYPQIPcXti&format=png"  width="25" height="25">__`notebooks`:__ Here you will find the code
+- <img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png"  width="25" height="25">`postnord_classification.ipynb`: finds the best model for classification and then trains and evalutates it.
+- <img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png"  width="25" height="25">`preprocessing.ipynb`: get the data in shape for the classification task.
+- <img src="https://img.icons8.com/?size=512&id=JHFYPQIPcXti&format=png"  width="25" height="25">`old`: a folder of previous editions of the code (_it's quite messy, so no need to look in there_)
 
 \
-__`out`:__ Here you will find the output from running the code (plots, reports etc.)
-- PLOTS
+<img src="https://img.icons8.com/?size=512&id=JHFYPQIPcXti&format=png"  width="25" height="25">__`out`:__ Here you will find the output from running the code (plots, reports etc.)
+- <img src="https://img.icons8.com/?size=512&id=JHFYPQIPcXti&format=png"  width="25" height="25"> PLOTS
 ## How to use the code
 - Before running any of the code, please download the data from [this Kaggle-page](https://www.kaggle.com/datasets/nicklasstiborgm/reviews-of-postnords-trustpilot-page) and add it to the `in`-folder.
 - Then go into the `notebooks`-folder, open the `preprocessing.ipynb`-notebook and run all the code chunks in the notebook. This should complete any necessary preprocessing of the data and save a cleaned and balanced dataset, which can be used for further analysis, in the `in`-folder.
