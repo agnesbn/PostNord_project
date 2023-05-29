@@ -30,6 +30,6 @@
 ## How to use the code
 - Before running any of the code, please download the data from [this Kaggle-page](https://www.kaggle.com/datasets/nicklasstiborgm/reviews-of-postnords-trustpilot-page) and add it to the `in`-folder.
 - Then go into the `notebooks`-folder, open the `preprocessing.ipynb`-notebook and run all the code chunks in the notebook (_make sure to uncomment the first chunk to install the relevant packages_). This should complete any necessary preprocessing of the data and save a cleaned and balanced dataset, which can be used for further analysis, in the `in`-folder.
-    - _If you want to skip this step, you can already find the output from this notebook (`balanced_dataset.csv`) in the `in`-folder.
+    - _If you want to skip this step, you can already find the output from this notebook (`balanced_dataset.csv`) in the `in`-folder._
 - Then open and run all the code in `postnord_classification.ipynb` (_make sure to uncomment the first chunk to install the relevant packages_), and you will get the different used seen in the exam paper.
     - _Running this might take a while!_
