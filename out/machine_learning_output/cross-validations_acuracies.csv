@@ -1,0 +1,5 @@
+model_name,accuracy
+MultinomialNB,0.4806561581284794
+LogisticRegression,0.4770751235378745
+ComplementNB,0.464955901670107
+LinearSVC,0.4460811909676612
