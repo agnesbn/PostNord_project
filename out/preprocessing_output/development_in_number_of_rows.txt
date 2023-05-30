@@ -1,0 +1,7 @@
+DEVELOPMENT IN NUMBER OF ROWS DURING CLEANING
+Beginning number of rows: 399980
+Number of rows after removing duplicates: 399537
+Number of rows after taking out sample of 25: 399512
+Number of rows after removing empty rows: 398841
+Number of rows after removing empty rows (again): 397174
+Number of rows after removing short review: 397149
